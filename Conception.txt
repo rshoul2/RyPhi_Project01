@@ -1,0 +1,9 @@
+__Ideas and construction of our first project__
+
+(6/22/15)
+- I'm leaning towards development for Android development. I want to get some mobile
+development experience and we can still use develop in Unity for this. Porting to Android
+from Unity is fairly simple so it shouldn't be an issue.
+- Should we find an artist for animation and models or do we want to do that ourselves?
+- (Game Idea) Top down dungeon crawler with very simple mechanics but have some sort of
+  mechanic that makes it unique-ish, such as only tapping or certain swipes.
