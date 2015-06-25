@@ -6,7 +6,7 @@ public class first {
 	}
 
 	public static void main(String args[]) {
-		first anal = new first();
-		System.out.println(anal.phisting);
+		first f = new first();
+		System.out.println(f.phisting);
 	}
 }
